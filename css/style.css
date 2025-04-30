@@ -34,7 +34,6 @@ h1 {
 
 h2 {
     font-size: 2em;
-    /*text-align: center;*/
 }
 
 h3 {
@@ -52,6 +51,7 @@ h5 {
 h6 {
     font-size: 1em;
     text-align: center;
+    color: #b0a4a4;
 }
 
 /* Paragraphs */
@@ -126,4 +126,20 @@ video {
 #video {
     margin-bottom: 20px;
     text-align: center;
+}
+
+#camp {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#phone {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#footer {
+    margin-top: 20px;
+    text-align: right;
+    color: #b0a4a4;
 }
