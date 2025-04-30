@@ -123,17 +123,7 @@ video {
 
 }
 
-#video {
-    margin-bottom: 20px;
-    text-align: center;
-}
-
-#camp {
-    margin-bottom: 20px;
-    text-align: center;
-}
-
-#phone {
+#video, #camp, #phone {
     margin-bottom: 20px;
     text-align: center;
 }
