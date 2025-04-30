@@ -61,7 +61,7 @@ p {
 
 /* Links */
 a {
-    color: #758ea9;
+    color: #86f3ab;
     text-decoration: none;
     text-align: center;
 }
@@ -115,4 +115,15 @@ button {
 
 button:hover {
     background-color: #0056b3;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+
+}
+
+#video {
+    margin-bottom: 20px;
+    text-align: center;
 }
